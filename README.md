@@ -1,5 +1,5 @@
 # Another Parking Meter Robbery which works with QBCore Framework
-## My first ever <strong>public realease</strong> for the community.
+## My first ever <strong>public release</strong> for the community.
 - <strong> Ruby-RobParking </strong> <br>
 A resource which allows players to steal money from parking meters.
 
