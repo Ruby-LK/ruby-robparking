@@ -11,7 +11,7 @@ A resource which allows players to steal money from parking meters.
 - Players cannot rob the same meter again & again (No Spamming). <br> <br>
 
 - No more weird robbery animations. <br>
-- Players will look at the meter object before starts robbing.
+-Players will automatically head to the meter object before starting the robbery.
 
 # Dependancies #
 01. qb-core - https://github.com/qbcore-framework/qb-core <br>
