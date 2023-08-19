@@ -2,7 +2,10 @@
 ## My first ever <strong>public release</strong> for the community.
 - <strong> Ruby-RobParking </strong> <br>
 A resource which allows players to steal money from parking meters.
-
+## Would you like to buy me a coffee ?
+<!-- Buy me a coffee : https://www.buymeacoffee.com/imrubylk -->
+Yeah. Just click this button. <br><br>
+<a href="https://www.buymeacoffee.com/imrubylk"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=imrubylk&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 ## Features
 - You can choose the reward type between `cash` and `marked-bills`.<br>
 - Reward amounts are configurable. <br>
@@ -30,8 +33,9 @@ A resource which allows players to steal money from parking meters.
 - Naor [ CoreVersion ] - https://github.com/CoreVersion/ for giving this idea when I got bored.
 - Jim [ Jim Shield ] - https://github.com/jimathy/ for some code snips.
 
-## Would you like to buy me a coffee ? 🤭
-- Buy me a coffee: https://www.buymeacoffee.com/imrubylk
-<br> <br>
+## Contributors ##
+- [Scar](https://github.com/scarfoxed)
+
+<br>
 Hope you guys will enjoy this.<br>If you see any error please open an issue in GitHub.<br><br>
 <strong>Ruby LK</strong> - A random girl who loves to code and fix errors 😋
