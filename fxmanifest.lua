@@ -11,10 +11,11 @@ lua54 "yes"
 
 shared_scripts {
     "config.lua",
+    --"@ox_lib/init.lua", -- comment this out for regular qb no ox lib
 }
 
 client_scripts {
- "client/*.lua",
+    "client/*.lua",
 }
 
 server_scripts {
