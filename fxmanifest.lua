@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Core Version'
+author 'Core Version & Ruby'
 description 'ruby-robparking'
 
 lua54 "yes"
